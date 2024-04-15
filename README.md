@@ -1,5 +1,8 @@
 # Shishuvani
-## 	"Shishu Vani (शिशु वाणी)" by Team Web Creators aims to revolutionize early childhood education for children aged below 5-6 years. This interactive educational platform offers engaging modules tailored for alphabet and number learning, supplemented with general knowledge resources. Utilizing Angular with the MEAN stack, it provides a vibrant interface with playful animations, accessibility features, and customizable options. Parents and educators benefit from a dedicated dashboard to track progress and customize learning experiences. Shishu Vaani promises to make learning fun and interactive while ensuring a safe online environment for young learners.
+## "Shishu Vani (शिशु वाणी)" by Team Web Creators aims to revolutionize early childhood education for children aged below 5-6 years. This interactive educational platform offers engaging modules tailored for alphabet and number learning, supplemented with general knowledge resources. Utilizing Angular with the MEAN stack, it provides a vibrant interface with playful animations, accessibility features, and customizable options. Parents and educators benefit from a dedicated dashboard to track progress and customize learning experiences. Shishu Vaani promises to make learning fun and interactive while ensuring a safe online environment for young learners.
+
+## Screenshots
+
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.3.0.
 
